@@ -1,2 +1,2 @@
 # GyroX_Sensor
-Pretty simple Sensor read and sent via BLE with I2C
+Pretty simple Sensor read and sent via BLE with I2C . Side project for uni .
